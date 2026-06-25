@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.log
+pip-log.txt
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+.idea/
+
+# API Keys / Secrets
+*.env
+.env.local
+secrets.py
