@@ -100,7 +100,9 @@ Then navigate to any linked repository and open the `.ipynb` files.
 ---
 
 ## 📄 License
-MIT
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ❤️ by [Sneha Tanwar](https://github.com/SnehaTanwar006)*
+
+<p align="center">Made with ❤️ by <a href="https://github.com/SnehaTanwar006">Sneha Tanwar</a></p>
